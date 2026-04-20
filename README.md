@@ -4,3 +4,5 @@ things so this disarrangement is focused on me memorizing clearly what each of t
 
 In the future i want to arrange it by memory, but maybe that wont be necessary if i understand everything inside 
 correctly.
+
+20/04/26 - Reorganized repo files with numeric prefixes, using Copilot guidance to learn bash commands

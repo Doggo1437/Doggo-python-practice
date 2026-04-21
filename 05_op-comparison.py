@@ -11,7 +11,7 @@ less_or_equal = 5 <= 6
 
 greater_or_equal = 5 >= 6
 
-# combined calculus
+# combined calculus on comparison
 
 a = 5
 b = 10
@@ -22,9 +22,10 @@ comparison = a + b < c
 stored_password = "doggooggod"
 
 written_password = '''doggooggod'''
-# this comparison = true 
+# print(stored_password == written_password) this comparison = true 
 
-# (written_password = '''doggod''')= false
-#print(stored_password == written_password)
+# (written_password = '''doggod''') = false is not the same as the stored password, 
+# so the comparison will return false.
 
-print() 
+
+print(less_or_equal) 

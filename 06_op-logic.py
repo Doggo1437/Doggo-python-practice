@@ -1,13 +1,13 @@
-#AND
+#AND (&)
 # if only one condition is false, returns false
 #  otherwise it returns true
 
-Result = True & True #return True
+Result1 = True & True #return True
 Result2 = False & True #return False
 Result3 = True & False #return False
 Result4 = False & False #return False 
 
-#OR
+#OR (|)
 # if both conditions are false, returns false
 #  otherwise it returns true
 
@@ -21,10 +21,8 @@ Result8 = False | False #return False
 Result9 = not True #return False
 Result10 = not False #return True
 
-
-
-    
-        
+print(Result9)
+print(Result10)
 
     
        

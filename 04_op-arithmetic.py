@@ -15,7 +15,12 @@ floor_division = 12 // 5 # this will return the whole number rounded down
 # modulus
 modulus = 12 % 5 # this will return the remainder after the division
 
-# this will return the type of data
-data_type = type() 
+# this will return the type of data 
+data_type = type(division) 
+
+# this is <class 'dict'>: { 'name':'Saskia The Unyielding',
+#                          'type':'Creature',
+#                          'mana_value':'WBRG',
+#                          'p&t':'3/4' }
 
 print(data_type)
